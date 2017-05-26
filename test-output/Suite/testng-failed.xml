@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+  <test name="Test(failed)">
+    <classes>
+      <class name="TestCases.CashAdvanceLimitTest">
+        <methods>
+          <include name="Adminm"/>
+          <include name="beforeSu"/>
+          <include name="afterMethod"/>
+        </methods>
+      </class> <!-- TestCases.CashAdvanceLimitTest -->
+      <class name="TestCases.CrewJoiningSeniorityTest">
+        <methods>
+          <include name="afterMethod"/>
+          <include name="Adminm"/>
+          <include name="beforeSu"/>
+        </methods>
+      </class> <!-- TestCases.CrewJoiningSeniorityTest -->
+      <class name="TestCases.ContractTypeTest">
+        <methods>
+          <include name="beforeSu"/>
+          <include name="afterMethod"/>
+        </methods>
+      </class> <!-- TestCases.ContractTypeTest -->
+      <class name="TestCases.joiningTypeTest">
+        <methods>
+          <include name="beforeSu"/>
+          <include name="afterMethod"/>
+        </methods>
+      </class> <!-- TestCases.joiningTypeTest -->
+      <class name="TestCases.CrewWelfareAmountTest">
+        <methods>
+          <include name="beforeSu"/>
+          <include name="afterMethod"/>
+        </methods>
+      </class> <!-- TestCases.CrewWelfareAmountTest -->
+      <class name="TestCases.DocumentGroupsTest">
+        <methods>
+          <include name="afterMethod"/>
+          <include name="beforeSu"/>
+        </methods>
+      </class> <!-- TestCases.DocumentGroupsTest -->
+      <class name="TestCases.MailsettingforAllotmentFlagTest">
+        <methods>
+          <include name="beforeSu"/>
+          <include name="afterMethod"/>
+          <include name="Adminm"/>
+        </methods>
+      </class> <!-- TestCases.MailsettingforAllotmentFlagTest -->
+      <class name="TestCases.RankCategoryTest">
+        <methods>
+          <include name="initialioseBrowser"/>
+          <include name="beforeSu"/>
+          <include name="afterMethod"/>
+          <include name="closeBrowser"/>
+        </methods>
+      </class> <!-- TestCases.RankCategoryTest -->
+      <class name="TestCases.CrewRankScaleTest">
+        <methods>
+          <include name="beforeSu"/>
+          <include name="Adminm"/>
+          <include name="afterMethod"/>
+        </methods>
+      </class> <!-- TestCases.CrewRankScaleTest -->
+      <class name="TestCases.CrewSignOffReasonTest">
+        <methods>
+          <include name="beforeSu"/>
+          <include name="afterMethod"/>
+        </methods>
+      </class> <!-- TestCases.CrewSignOffReasonTest -->
+      <class name="TestCases.CrewContractPeriodTest">
+        <methods>
+          <include name="beforeSu"/>
+          <include name="afterMethod"/>
+          <include name="Adminm"/>
+        </methods>
+      </class> <!-- TestCases.CrewContractPeriodTest -->
+      <class name="TestCases.HandOverQuestionTest">
+        <methods>
+          <include name="beforeSu"/>
+          <include name="afterMethod"/>
+          <include name="search"/>
+          <include name="Adminm"/>
+        </methods>
+      </class> <!-- TestCases.HandOverQuestionTest -->
+      <class name="TestCases.TrainingTypesTest">
+        <methods>
+          <include name="beforeSu"/>
+          <include name="afterMethod"/>
+        </methods>
+      </class> <!-- TestCases.TrainingTypesTest -->
+      <class name="TestCases.SeniorityRewardYearTest">
+        <methods>
+          <include name="beforeSu"/>
+          <include name="afterMethod"/>
+        </methods>
+      </class> <!-- TestCases.SeniorityRewardYearTest -->
+      <class name="TestCases.CrewRankTest">
+        <methods>
+          <include name="beforeSu"/>
+          <include name="afterMethod"/>
+        </methods>
+      </class> <!-- TestCases.CrewRankTest -->
+      <class name="TestCases.DocumentTypeTest">
+        <methods>
+          <include name="beforeSu"/>
+          <include name="afterMethod"/>
+        </methods>
+      </class> <!-- TestCases.DocumentTypeTest -->
+      <class name="TestCases.OnBoardStaffLimitTest">
+        <methods>
+          <include name="search"/>
+          <include name="beforeSu"/>
+          <include name="afterMethod"/>
+        </methods>
+      </class> <!-- TestCases.OnBoardStaffLimitTest -->
+      <class name="TestCases.TravelAdminTest">
+        <methods>
+          <include name="afterMethod"/>
+          <include name="Travel"/>
+          <include name="beforeSu"/>
+          <include name="TravelQtnUserAssignmentg"/>
+        </methods>
+      </class> <!-- TestCases.TravelAdminTest -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

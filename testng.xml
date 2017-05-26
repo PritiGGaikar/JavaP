@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test name="Test">
+    <classes>
+   
+<class name="TestCases.RankCategoryTest"/>   
+<class name="TestCases.CrewRankTest"/>
+<class name="TestCases.joiningTypeTest"/>
+<class name="TestCases.DocumentGroupsTest"/>
+<class name="TestCases.DocumentTypeTest"/>
+<class name="TestCases.CrewSignOffReasonTest"/>
+<class name="TestCases.TrainingTypesTest"/>
+<class name="TestCases.CrewWelfareAmountTest"/>
+<class name="TestCases.OnBoardStaffLimitTest"/>
+<class name="TestCases.CompanySeniorityRewardTest"/>
+<class name="TestCases.ContractTypeTest"/>
+<class name="TestCases.CrewRankScaleTest"/>
+<class name="TestCases.HandOverQuestionTest"/>
+<class name="TestCases.CrewContractPeriodTest"/>
+<!-- <class name="TestCases.CashAdvanceLimitTest"/> -->
+<class name="TestCases.AllotmentflagmailsettingsTest"/>
+<class name="TestCases.CrewJoiningSeniorityTest"/>
+<!--class name="TestCases.CrewCardApproverTest"/>
+<class name="TestCases.CrewStatusLibraryTest"/> 
+<class name="TestCases.CrewStatusMappingTest"/>
+<class name="TestCases.CrewLeaveWagesWithholdRulesTest"/>     
+<class name="TestCases.OilMajorTest"/>
+<class name="TestCases.OilMajorsRulesMappingTest"/>
+<class name="TestCases.OilMajorsRuleGroupTest"/> 
+<class name="TestCases.Oil_LibraryTest"/>
+     <class name="TestCases.CrewDetailsConfigurationTest"/>
+  
+ <class name="TestCases.UnionAndUnionBookTest"/>  
+<class name="TestCases.SchoolTest"/>
+<class name="TestCases.RaceAndVeteranStatusTest"/>
+ -->
+ 
+        <!--   Operation Admin  -->
+      <!--  <class name="TestCases.WaterInTankTest"/>   
+       <class name="TestCases.PiracyAlarmSettingsTest"/>
+       <class name="TestCases.VslGeneralParametersTest"/>
+        <class name="TestCases.ReportsRankConfigTest"/> -->
+       
+      <!--   Travel Admin  -->
+        <class name="TestCases.TravelAdminTest"/>
+        
+           <!--      Quality Admin    
+          <class name="TestCases.FormTypeLibraryTest"/>
+          <class name="TestCases.FBMReadAccessTest"/> -->
+            
+<!--             
+            Purchase Admin
+ <class name="TestCases.LOTestingLabListTest"/> 
+ <class name="TestCases.LocationTest"/>           
+  <class name="TestCases.SetItemsMinMaxQtysTest"/>           
+  <class name="TestCases.UnitPackingsTest"/>           
+    <class name="TestCases.PurchaseQuestionnaireTest"/>
+  <class name="TestCases.EmailTemplateTest"/>  
+   <class name="TestCases.PurchaseSettingsTest"/>  
+  <class name="TestCases.ApprovalSettingTest"/>  
+    -->
+  <!--  Technical Admin -->
+             
+<!-- <class name="TestCases.SurveyCertificateSettingsTest"/> -->
+ <!-- <class name="TestCases.ERLogTHRESHOLDTest"/>
+<class name="TestCases.WorklistAssignerListTest"/>
+<class name="TestCases.WorklistAccessRightsTest"/>
+<class name="TestCases.InspectionTypeTest"/>
+<class name="TestCases.SAttendingVesselTest"/>
+<class name="TestCases.InspVesselAssignmentTest"/> 
+<class name="TestCases.AlarmUnitTest"/>
+<class name="TestCases.AlarmEffectTest"/>
+ <class name="TestCases.PMSAccessTest"/> 
+<class name="TestCases.FunctionLibraryTest"/>  
+
+    
+     -->
+  
+  
+        
+ 
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
